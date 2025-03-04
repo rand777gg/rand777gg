@@ -1,5 +1,7 @@
 # About me
 
+busy recently, few update frequency
+
 - blog web: https://rand777.pguide.studio/
 
 <!--
