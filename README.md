@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+
+- blog web: https://rand777.pguide.studio/
 
 <!--
 **MultipledMe/MultipledMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
