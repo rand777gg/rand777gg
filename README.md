@@ -12,5 +12,4 @@ busy recently, few update frequency
 - 💬 Ask me about Vue3
 - 📫 How to reach me: losmosga@foxmail.com
 - 😄 Pronouns: rand 777
-- ⚡ Fun fact: wOVOw
-
+- ⚡ Fun fact: I often work in the night(24:00-6:00)
