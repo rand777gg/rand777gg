@@ -11,36 +11,7 @@ TypeScript ROS2 enthusiast, Node.js user, One Half Stacker.
 
 ### Frontend
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,vue" />
-  </a>
-</p>
-
-### Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,postgres" />
-  </a>
-</p>
-### Adobe
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,pr," />
-  </a>
-</p>
-### Linux
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim" />
-  </a>
-</p>
-### DevTools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
 ### I'm doing:
 
 - 🔭 I’m currently working on PGuide Docs
