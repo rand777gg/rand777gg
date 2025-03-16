@@ -8,7 +8,7 @@
 
 TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 
-[🌐 Website](https://pengzhanbo.cn) · [📚 Blog](https://pengzhanbo.cn/blog/) · [📇 Contact](mailto:q942450674@outlook.com) · [💬 Dicsord](https://discord.gg/UJGcxJ9jnj)
+[🌐 Website](https://www.rand777.me) · [📚 Blog](https://rand777.me/blog) · [📇 Contact](mailto:losmosga@foxmail.com) ·
 
 
 ### Tech stack
@@ -36,12 +36,7 @@ TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 
 
 
-# About me
-
-busy recently, few update frequency
-
-- blog web: https://rand777.pguide.studio/
-
+### I'm doing:
 
 - 🔭 I’m currently working on PGuide Docs
 - 🌱 I’m currently learning ROS2
