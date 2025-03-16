@@ -7,26 +7,7 @@ TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 
 ### Tech stack
 
-<picture><img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust"></picture>
-
-### Tools I use
-
-<picture><img src="https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm"></picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24&theme=dark&t=1"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true&line_height=24&t=1" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8" />
-</picture>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust">
 
 
 
