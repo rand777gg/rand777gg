@@ -11,6 +11,8 @@ TypeScript ROS2 enthusiast, Node.js user, One Half Stacker.
 
 ### Stargazers over time
 
+AutoMQ Stargazers
+
 [![Stargazers over time](https://starchart.cc/AutoMQ/automq.svg?background=%2378da8242&axis=%23ffffff&line=%2363ffdd)](https://starchart.cc/AutoMQ/automq)
 
 ### I'm doing:
