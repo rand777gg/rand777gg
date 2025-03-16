@@ -1,10 +1,4 @@
-<!-- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+rand777%F0%9F%91%8B)](https://git.io/typing-svg)
--->
-
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+pengzhanbo%F0%9F%91%8B">
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=300&color=10F749&background=ED36FF00&multiline=true&repeat=false&width=450&height=150&lines=echo+hello......done;Hello%2C+I'm+rand777.;Glad+to+see+you+here.)](https://git.io/typing-svg)
 
 TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 
