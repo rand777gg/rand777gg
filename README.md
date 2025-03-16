@@ -9,7 +9,9 @@ TypeScript ROS2 enthusiast, Node.js user, One Half Stacker.
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust">
 
+### Stargazers over time
 
+[![Stargazers over time](https://starchart.cc/AutoMQ/automq.svg?background=%2378da8242&axis=%23ffffff&line=%2363ffdd)](https://starchart.cc/AutoMQ/automq)
 
 ### I'm doing:
 
