@@ -2,16 +2,8 @@
 
 ## About me
 
-TypeScript ROS2 enthusiast, Node.js user, One Half Stacker.
+TypeScript|ROS2 enthusiast, Node.js user, One Half Stacker.
 
-[🌐 Website](https://www.rand777.me) · [📚 Blog](https://rand777.me/blog) · [📇 Contact](mailto:losmosga@foxmail.com) ·
-
-
-## Tech stack
-
-### Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
 ### I'm doing:
 
 - 🔭 I’m currently working on PGuide Docs
