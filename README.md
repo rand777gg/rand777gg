@@ -12,14 +12,24 @@
 - 💬 我擅长Vue组件式前端开发
 - ⚡ 一些关于我有趣的事：通常晚上工作（24:00-06:00），周末通常不写代码
 
-## 我做过的一些项目
+## 参与的开源项目
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&repo=github-readme-stats" />
+> Every time I joined OpenSource projects, I think, wow, this must be wonderful!
+
+<a href="https://github.com/Lyrlark/PGuide-Docs">
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyrlark&repo=PGuide-Docs&theme=ambient_gradient&show_owner=true&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/PGuideDev/when2eat">
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PGuideDev&repo=when2eat&theme=ambient_gradient&show_owner=true&hide_border=true" />
 </a>
+
+<a href="https://github.com/CQMUA/ServerCenter4CQMUA">
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CQMUA&repo=ServerCenter4CQMUA&theme=ambient_gradient&show_owner=true&hide_border=true" />
+</a>
+<a href="https://github.com/PGuideDev/async-my-docker">
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PGuideDev&repo=async-my-docker&theme=ambient_gradient&show_owner=true&hide_border=true" />
+</a>
+
 
 ## 今年汇总 ✨
 
