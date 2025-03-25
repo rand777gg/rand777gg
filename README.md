@@ -1,18 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello%2C+I'm+Lyrlark%2C+you+can+call+me+rand777.)](https://git.io/typing-svg)
-## 关于 Lyrlark
+## About me 😄
 
-您好，欢迎关注我。
+### What I'm doing recently
 
-### 最近在干什么：
+- 🔭 Building project documentation
+- 🌱 Learning the robot operating system ROS2
+- 👯 Seeking cooperation in CQMUA restoration project
+- 🤔 Finding a LaTeX partner
+- 💬 I am good at Vue component-based front-end development
+- ⚡ Some interesting things about me: I usually work at night (24:00-06:00), and usually don't write code on weekends
 
-- 🔭 建设项导文档
-- 🌱 学习机器人操作系统ROS2
-- 👯寻求CQMUA复原工程合作
-- 🤔 找到LaTeX合作伙伴
-- 💬 我擅长Vue组件式前端开发
-- ⚡ 一些关于我有趣的事：通常晚上工作（24:00-06:00），周末通常不写代码
-
-## 参与的开源项目
+## My Open Sources
 
 > Every time I joined OpenSource projects, I think, wow, this must be wonderful!
 
@@ -31,7 +29,7 @@
 </a>
 
 
-## 今年汇总 ✨
+## What I've done this year ✨
 
 ### Stats
 
