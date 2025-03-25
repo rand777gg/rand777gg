@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=300&color=10F749&background=ED36FF00&multiline=true&repeat=false&width=450&height=100&lines=echo+hello......done;Hello%2C+I'm+rand777.;Glad+to+see+you+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Lyrlark%2C+you+can+call+me+rand777.)](https://git.io/typing-svg)
 
 ## About me
 
