@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello%2C+I'm+Lyrlark%2C+you+can+call+me+rand777.)](https://git.io/typing-svg)
-## 关于 rand777
+## 关于 Lyrlark
 
 您好，欢迎关注我。
 
