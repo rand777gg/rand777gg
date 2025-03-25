@@ -3,27 +3,27 @@
 
 TypeScript|ROS2 enthusiast, Node.js user, One Half Stacker.
 
-### I'm doing:
+### 最近在干什么：
 
-- 🔭 I’m currently working on PGuide Docs
-- 🌱 I’m currently learning ROS2
-- 👯 I’m looking to collaborate on CQMUA restore projects
-- 🤔 I’m looking for help with LaTeX friends
-- 💬 Ask me about Vue3
-- 📫 How to reach me: losmosga@foxmail.com
-- 😄 Pronouns: rand 777
-- ⚡ Fun fact: I often work in the night(24:00-6:00), and no commits in the weekends
+- 🔭 建设项导文档
+- 🌱 学习机器人操作系统ROS2
+- 👯寻求CQMUA复原工程合作
+- 🤔 找到LaTeX合作伙伴
+- 💬 我擅长Vue组件式前端开发
+- 😄 我的名字读作 Lyr Lark，意为天外云雀
+- ⚡ 一些关于我有趣的事：通常晚上工作（24:00-06:00），周末通常不写代码
 
-## 今年汇总 ✨
+## 我做过的一些项目
 
-<!-- 统计卡片：添加 align="center" 保持与下方仓库卡片对齐 -->
-<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=Lyrlark&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyrlark&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-<!-- 仓库卡片：保持原有对齐方式 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
+## 今年汇总 ✨
+
+<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=Lyrlark&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyrlark&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
