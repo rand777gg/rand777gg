@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello%2C+I'm+Lyrlark%2C+you+can+call+me+rand777.)](https://git.io/typing-svg)
-## About me
+## 关于 rand777
 
-TypeScript|ROS2 enthusiast, Node.js user, One Half Stacker.
+您好，欢迎关注我。
 
 ### 最近在干什么：
 
@@ -10,7 +10,6 @@ TypeScript|ROS2 enthusiast, Node.js user, One Half Stacker.
 - 👯寻求CQMUA复原工程合作
 - 🤔 找到LaTeX合作伙伴
 - 💬 我擅长Vue组件式前端开发
-- 😄 我的名字读作 Lyr Lark，意为天外云雀
 - ⚡ 一些关于我有趣的事：通常晚上工作（24:00-06:00），周末通常不写代码
 
 ## 我做过的一些项目
