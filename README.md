@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=900&height=150&lines=True+nobility+resides+in+the+human+spirit+and+its+boundless+intellect.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=900&height=50&lines=True+nobility+resides+in+the+human+spirit+and+its+boundless+intellect.)](https://git.io/typing-svg)
 
 <h2 align="center">Mastered Tools</h2>
 
-> Maybe you can ask about these:
+> Maybe we can talk about these:
 
 <p align="center">
     <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
@@ -19,7 +19,7 @@
 
 <h2 align="center">My Open Sources</h2>
 
-> Every time I joined *Open-Source* projects, I would think, wow, this must be correct!
+> Every time I joined *Open-Source* projects, I would think: wow, this must be correct!
 
 <a href="https://github.com/Lyrlark/PGuide-Docs">
   <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyrlark&repo=PGuide-Docs&theme=ambient_gradient&show_owner=true&hide_border=true" />
