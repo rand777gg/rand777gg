@@ -17,10 +17,9 @@
 </p>
 
 
+<h2 align="center">My Open Sources</h2>
 
-## Open Source
-
-> Every time I joined *Open-Source* projects, I think, wow, this must be correct!
+> Every time I joined *Open-Source* projects, I would think, wow, this must be correct!
 
 <a href="https://github.com/Lyrlark/PGuide-Docs">
   <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyrlark&repo=PGuide-Docs&theme=ambient_gradient&show_owner=true&hide_border=true" />
@@ -37,8 +36,6 @@
 </a>
 
 <h2 align="center">Commit Stats</h2>
-
-<h1 align="center" >About me 😄</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake.svg">
