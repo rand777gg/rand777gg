@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=1000&lines=True+nobility+resides+in+the+human's+spirit+and+its+boundless+intellect.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=1000&lines=True+nobility+resides+in+the+human's+spirit+and+its+boundless+intellect.)](https://git.io/typing-svg)
 
-<h2 align="center">Mastered Tools</h2>
+<h1 align="center">😸About me</h1>
+
+<h2 align="center">🏵️Mastered Tools</h2>
 
 > Maybe we can talk about these:
 
