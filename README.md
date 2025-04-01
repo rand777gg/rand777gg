@@ -1,14 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=900&height=150&lines=True+nobility+resides+in+the+human+spirit+and+its+boundless+intellect.)](https://git.io/typing-svg)
 
-<h1 align="center" >About me 😄</h1>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=Lyrlark&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyrlark&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
 <h2 align="center">Mastered Tools</h2>
 
 > Maybe you can ask about these:
@@ -47,4 +38,11 @@
 
 <h2 align="center">Commit Stats</h2>
 
+<h1 align="center" >About me 😄</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake.svg">
+</picture>
 
+<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=Lyrlark&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyrlark&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
