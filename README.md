@@ -1,6 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello%2C+I'm+Lyrlark%2C+you+can+call+me+rand777.)](https://git.io/typing-svg)
 ## About me 😄
 
+### Tools I use:
+
+<p align="center">
+    <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
+    <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/></a>
+    <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"/></a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="PyCharm"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/></a>
+    <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex&theme=dark" alt="LaTeX"/></a>
+    <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
+</p>
+
 ### What I'm doing recently
 
 - 🔭 Building project documentation
