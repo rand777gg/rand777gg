@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=900&height=50&lines=True+nobility+resides+in+the+human+spirit+and+its+boundless+intellect.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=1000&lines=True+nobility+resides+in+the+human's+spirit+and+its+boundless+intellect.;%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%AB%98%E8%B4%B5%E5%AD%98%E7%BB%AD%E4%BA%8E%E4%BA%BA%E7%B1%BB%E7%9A%84%E7%B2%BE%E7%A5%9E%E5%92%8C%E6%97%A0%E9%99%90%E7%9A%84%E6%99%BA%E6%85%A7%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%8D%95%E7%BA%AF%E6%89%80%E8%B0%93%E7%9A%84%E6%8A%80%E6%9C%AF%E3%80%82)](https://git.io/typing-svg)
 
 <h2 align="center">Mastered Tools</h2>
 
