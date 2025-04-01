@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello%2C+I'm+Lyrlark%2C+you+can+call+me+rand777.)](https://git.io/typing-svg)
-
-> No chains can bind invention's flight, our souls outshine the crafts we write."
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=600&lines=True+nobility+resides+in+the+human+spirit+and+its+boundless+intellect)](https://git.io/typing-svg)
 
 <h1 align="center" >About me 😄</h1>
 <picture>
