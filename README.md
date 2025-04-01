@@ -9,7 +9,9 @@
 
 <img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=Lyrlark&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyrlark&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-### Tools I master:
+<h2 align="center">Mastered Tools</h2>
+
+> Maybe you can ask about these:
 
 <p align="center">
     <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
@@ -23,18 +25,11 @@
     <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
 </p>
 
-### Ongoing chores
 
-- 🔭 Building PGuide-Docs
-- 🌱 Learning the robot operating system ROS2
-- 👯 Seeking cooperation in CQMUA restoration project
-- 🤔 Finding a LaTeX partner
-- 💬 I am good at Vue component-based front-end development
-- ⚡ Some interesting things about me: I usually work at night (24:00-06:00), and usually don't write code on weekends
 
 ## Open Source
 
-> Every time I joined OpenSource projects, I think, wow, this must be wonderful!
+> Every time I joined *Open-Source* projects, I think, wow, this must be correct!
 
 <a href="https://github.com/Lyrlark/PGuide-Docs">
   <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyrlark&repo=PGuide-Docs&theme=ambient_gradient&show_owner=true&hide_border=true" />
@@ -49,5 +44,7 @@
 <a href="https://github.com/PGuideDev/async-my-docker">
   <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PGuideDev&repo=async-my-docker&theme=ambient_gradient&show_owner=true&hide_border=true" />
 </a>
+
+<h2 align="center">Commit Stats</h2>
 
 
