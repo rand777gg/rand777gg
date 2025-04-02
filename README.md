@@ -17,25 +17,6 @@
     <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
 </p>
 
-
-<h2 align="center">My Open Sources</h2>
-
-> Every time I joined *Open-Source* projects, I would think: wow, this must be correct!
-
-<a href="https://github.com/Lyrlark/PGuide-Docs">
-  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyrlark&repo=PGuide-Docs&theme=ambient_gradient&show_owner=true&hide_border=true" />
-</a>
-<a href="https://github.com/PGuideDev/when2eat">
-  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PGuideDev&repo=when2eat&theme=ambient_gradient&show_owner=true&hide_border=true" />
-</a>
-
-<a href="https://github.com/CQMUA/ServerCenter4CQMUA">
-  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CQMUA&repo=ServerCenter4CQMUA&theme=ambient_gradient&show_owner=true&hide_border=true" />
-</a>
-<a href="https://github.com/PGuideDev/async-my-docker">
-  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PGuideDev&repo=async-my-docker&theme=ambient_gradient&show_owner=true&hide_border=true" />
-</a>
-
 <h2 align="center">Commit Stats</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake-dark.svg">
