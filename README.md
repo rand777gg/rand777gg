@@ -17,7 +17,7 @@
     <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
 </p>
 
-<h2 align="center">Commit Stats</h2>
+<h2 align="center">Commit Snake</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake.svg">
