@@ -18,7 +18,9 @@
 </p>
 
 <h2 align="center">PGuide Docs</h2>
-
+<a href="https://github.com/Lyrlark/PGuide-Docs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Lyrlark/PGuide-Docs" />
+</a>
 ![Alt](https://repobeats.axiom.co/api/embed/277806b39e1a868ff6f2a389a82b2041932a4bc0.svg "Repobeats analytics image")
 
 <h2 align="center">Commit Snake</h2>
