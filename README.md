@@ -3,6 +3,7 @@
 
 <div align="center">
    <img title="访客量" src="https://count.getloli.com/@:Lyrlark?theme=capoo-2">
+   <img title="访客量" src="https://count.getloli.com/@:Lyrlark?theme=capoo-1">
 </div>
 
 <h2 align="center">🏵️Mastered Tools</h2>
