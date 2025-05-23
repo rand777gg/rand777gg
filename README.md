@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=1000&lines=True+nobility+resides+in+the+human's+spirit+and+its+boundless+intellect.)](https://git.io/typing-svg)
 <h2 align="center">😸You are my dear visitors of</h2>
 
 <div align="center">
