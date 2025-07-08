@@ -21,14 +21,6 @@
     <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
 </p>
 
-<h2 align="center">PGuide Docs</h2>
-
-<a align="center" href="https://github.com/Lyrlark/PGuide-Docs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Lyrlark/PGuide-Docs" />
-</a>
-
-![Alt](https://repobeats.axiom.co/api/embed/277806b39e1a868ff6f2a389a82b2041932a4bc0.svg "Repobeats analytics image")
-
 <h2 align="center">Commit Stats</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake-dark.svg">
