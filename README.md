@@ -1,4 +1,4 @@
-<h2 align="center">IDEs</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
     <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
