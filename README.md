@@ -1,14 +1,3 @@
-<h2 align="center">😸You are my dear visitors of</h2>
-
-<div align="center">
-   <img title="访客量" src="https://count.getloli.com/@:Lyrlark?theme=capoo-2">
-   <img title="访客量" src="https://count.getloli.com/@:Lyrlark?theme=capoo-1">
-</div>
-
-<h2 align="center">🏵️I know these tools</h2>
-
-> Maybe we can talk about these:
-
 <p align="center">
     <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
