@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=900&height=150&lines=True+nobility+resides+in+the+human+spirit+and+its+boundless+intellect.)](https://git.io/typing-svg)
-
-<h2 align="center">Mastered Tools</h2>
-
 > Maybe we can ask about these:
 
 <p align="center">
@@ -15,9 +11,6 @@
     <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex&theme=dark" alt="LaTeX"/></a>
     <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
 </p>
-
-
-<h2 align="center">My Open Sources</h2>
 
 ## Open Source
 
