@@ -1,3 +1,6 @@
+- Personal Website: https://www.rand777.space
+- PGuide Studio Intro: https://rand777.pguide.studio
+
 > Maybe we can ask about these:
 
 <p align="center">
@@ -11,18 +14,6 @@
     <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex&theme=dark" alt="LaTeX"/></a>
     <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
 </p>
-
-## Open Source
-
-> Every time I joined *Open-Source* projects, I would think, wow, this must be correct!
-
-<a href="https://github.com/Lyrlark/PGuide-Docs">
-  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lyrlark&repo=PGuide-Docs&show_owner=true&hide_border=true" />
-</a>
-<a href="https://github.com/PGuideDev/when2eat">
-  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PGuideDev&repo=when2eat&show_owner=true&hide_border=true" />
-</a>
-
 
 <h2 align="center">Commit Stats</h2>
 <picture>
