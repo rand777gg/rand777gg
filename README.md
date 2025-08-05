@@ -1,25 +1,41 @@
-- Personal Website: https://www.rand777.space
-- PGuide Studio Intro: https://rand777.pguide.studio
-
-> Maybe we can ask about these:
-
-<p align="center">
-    <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
-    <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/></a>
-    <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python"/></a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="PyCharm"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/></a>
-    <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex&theme=dark" alt="LaTeX"/></a>
-    <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman"/></a>
-</p>
-
-<h2 align="center">Commit Stats</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lyrlark/Lyrlark/output/github-contribution-grid-snake.svg">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20rand777&desc=Share%20ideas,%20make%20web%20pages,%20immersive%20over%20ROS2&fontAlignY=45&descAlignY=64">
 </picture>
 
-<img align="" height="140px" src="https://github-readme-stats.vercel.app/api?username=Lyrlark&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyrlark&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<!-- TypeScript enthusiast, Node.js user, Rust & Harmony beginner -->
+
+[🌐 Website](https://rand777.space) · [📚 Idea](https://rand777.pguide.studio) · [📇 Contact](mailto:rand777@pguide.studio)
+
+
+### Tech stack
+
+<picture><img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust"></picture>
+
+### Tools I use
+
+<picture><img src="https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm"></picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=LyrLark&show_icons=true&hide_border=true&line_height=24&theme=dark&t=1"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LyrLarko&show_icons=true&hide_border=true&line_height=24&t=1" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LyrLark&layout=compact&hide_border=true&langs_count=8&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyrLark&layout=compact&hide_border=true&langs_count=8" />
+</picture>
+
+
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=LyrLark&margin-w=8&margin-h=8&column=7&row=1&no-frame=true&theme=algolia"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-profile-trophy.vercel.app/?username=LyrLark&margin-w=8&margin-h=8&column=7&row=1&no-frame=true&theme=light" />
+</picture>
+
