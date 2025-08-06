@@ -2,31 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20rand777&desc=Share%20ideas,%20make%20web%20pages,%20immersive%20over%20ROS2&fontAlignY=45&descAlignY=64">
 </picture>
 
-<!-- TypeScript enthusiast, Node.js user, Rust & Harmony beginner -->
-
-[🌐 Website](https://rand777.space) · [📚 Idea](https://rand777.pguide.studio) · [📇 Contact](mailto:rand777@pguide.studio)
+[🌐 Website](https://rand777.space) · [📚 Idea](https://rand777.pguide.studio) · [📇 Contact](mailto:rand777@pguide.studio) · [🔨 Projects](https://blog.rand777.space/more/projects/)
 
 
 ### Tech stack
 
-<picture><img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust"></picture>
+<picture style="margin: 0 2px;"><img src="https://skillicons.dev/icons?i=spring,ros,flask,django,flutter,rust,dart,cpp,cs,python,vue,astro,sass,windicss,ts,d3,threejs,nextjs,nodejs,nuxtjs,electron,elasticsearch,mysql,postgres,redis,nginx,kafka,fediverse,debian,kali"></picture>
 
 ### Tools I use
 
-<picture><img src="https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm"></picture>
-
+<picture><img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,clion,webpack,vite,rollup,git,githubactions,aws,gcp,vercel,netlify,cmake,jenkins,pnpm,gitlab,bitbucket,latex,anaconda,au,pr,ps,ai,ae,blender,docker,kubernetes,grafana"></picture>
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LyrLark&show_icons=true&hide_border=true&line_height=24&theme=dark&t=1"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LyrLarko&show_icons=true&hide_border=true&line_height=24&t=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LyrLark&show_icons=true&hide_border=true&line_height=24&t=1" />
 </picture>
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LyrLark&layout=compact&hide_border=true&langs_count=8&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyrLark&layout=compact&hide_border=true&langs_count=8" />
 </picture>
 
