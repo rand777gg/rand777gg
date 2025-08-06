@@ -7,11 +7,12 @@
 
 ### Tech stack
 
-<picture><img src="https://skillicons.dev/icons?i=spring,ros,flask,django,flutter,rust,dart,cpp,cs,python,vue,astro,sass,windicss,ts,d3,threejs,nextjs,nodejs,nuxtjs,electron,elasticsearch,mysql,postgres,redis,nginx,kafka,fediverse,debian,kali"></picture>
+<img src="https://skillicons.dev/icons?i=spring,ros,flask,django,flutter,rust,dart,cpp,cs,python,vue,astro,sass,windicss,ts,d3,threejs,nextjs,nodejs,nuxtjs,electron,elasticsearch,mysql,postgres,redis,nginx,kafka,fediverse,debian,kali">
 
 ### Tools I use
 
-<picture><img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,clion,webpack,vite,rollup,git,githubactions,aws,gcp,vercel,netlify,cmake,jenkins,pnpm,gitlab,bitbucket,latex,anaconda,au,pr,ps,ai,ae,blender,docker,kubernetes,grafana"></picture>
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,clion,webpack,vite,rollup,git,githubactions,aws,gcp,vercel,netlify,cmake,jenkins,pnpm,gitlab,bitbucket,latex,anaconda,au,pr,ps,ai,ae,blender,docker,kubernetes,grafana">
+
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=LyrLark&show_icons=true&hide_border=true&line_height=24&t=1" />
 </picture>
@@ -29,4 +30,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LyrLark&margin-w=8&margin-h=8&column=7&row=1&no-frame=true&theme=light" />
 </picture>
 -->
-
