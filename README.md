@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20rand777&desc=Share%20ideas,%20make%20web%20pages,%20immersive%20over%20ROS2&fontAlignY=45&descAlignY=64" style="display:none;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20rand777&desc=Share%20ideas,%20make%20web%20apps,%20immersive%20over%20ROS2&fontAlignY=45&descAlignY=64" style="display:none;">
 </picture>
 
 [🌐 Website](https://rand777.space) · [📚 Idea](https://rand777.pguide.studio) · [📇 Contact](mailto:rand777@pguide.studio) · [🔨 Projects](https://blog.rand777.space/more/projects/)
