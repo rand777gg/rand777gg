@@ -20,6 +20,7 @@
 </picture>
 
 
+<!--
 <picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=LyrLark&margin-w=8&margin-h=8&column=7&row=1&no-frame=true&theme=algolia"
@@ -27,4 +28,5 @@
   />
   <img src="https://github-profile-trophy.vercel.app/?username=LyrLark&margin-w=8&margin-h=8&column=7&row=1&no-frame=true&theme=light" />
 </picture>
+-->
 
