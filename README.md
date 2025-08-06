@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20rand777&desc=Share%20ideas,%20make%20web%20pages,%20immersive%20over%20ROS2&fontAlignY=45&descAlignY=64">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20rand777&desc=Share%20ideas,%20make%20web%20pages,%20immersive%20over%20ROS2&fontAlignY=45&descAlignY=64" style="display:none;">
 </picture>
 
 [🌐 Website](https://rand777.space) · [📚 Idea](https://rand777.pguide.studio) · [📇 Contact](mailto:rand777@pguide.studio) · [🔨 Projects](https://blog.rand777.space/more/projects/)
@@ -7,7 +7,7 @@
 
 ### Tech stack
 
-<picture style="margin: 0 2px;"><img src="https://skillicons.dev/icons?i=spring,ros,flask,django,flutter,rust,dart,cpp,cs,python,vue,astro,sass,windicss,ts,d3,threejs,nextjs,nodejs,nuxtjs,electron,elasticsearch,mysql,postgres,redis,nginx,kafka,fediverse,debian,kali"></picture>
+<picture><img src="https://skillicons.dev/icons?i=spring,ros,flask,django,flutter,rust,dart,cpp,cs,python,vue,astro,sass,windicss,ts,d3,threejs,nextjs,nodejs,nuxtjs,electron,elasticsearch,mysql,postgres,redis,nginx,kafka,fediverse,debian,kali"></picture>
 
 ### Tools I use
 
