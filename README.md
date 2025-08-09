@@ -5,7 +5,7 @@
 
 ### Tech stack
 
-<img src="https://skillicons.dev/icons?i=spring,ros,flask,django,flutter,rust,dart,cpp,cs,python,vue,astro,sass,windicss,ts,d3,threejs,nextjs,nodejs,nuxtjs,electron,elasticsearch,mysql,postgres,redis,nginx,kafka,fediverse,debian,kali">
+<img src="https://skillicons.dev/icons?i=spring,ros,flask,django,cpp,java,rust,dart,cs,python,flutter,vue,sass,windicss,ts,d3,threejs,nextjs,nodejs,nuxtjs,electron,elasticsearch,mysql,postgres,redis,nginx,kafka,fediverse,debian,kali">
 
 ### Tools I use
 
