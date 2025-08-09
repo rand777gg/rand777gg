@@ -9,10 +9,10 @@
 
 ### Tools I use
 
-
-
-
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,clion,webpack,vite,rollup,git,githubactions,aws,gcp,vercel,netlify,cmake,jenkins,pnpm,gitlab,bitbucket,latex,anaconda,au,pr,ps,ai,ae,blender,docker,kubernetes,grafana">
+
+<a href="https://wakatime.com"><img width="40%" src="https://wakatime.com/share/@9c1463fd-7862-4323-810f-7be6e71428e4/6bf91e36-ec58-47ed-bd1e-236e158bd501.png" /></a>
+<a href="https://wakatime.com"><img width="40%" src="https://wakatime.com/share/@9c1463fd-7862-4323-810f-7be6e71428e4/4619bd23-5804-4e98-8f44-0558f855112a.png" /></a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
