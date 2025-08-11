@@ -9,10 +9,15 @@
 
 ### Tools I use
 
+### Code stats
+
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,clion,webpack,vite,rollup,git,githubactions,aws,gcp,vercel,netlify,cmake,jenkins,pnpm,gitlab,bitbucket,latex,anaconda,au,pr,ps,ai,ae,blender,docker,kubernetes,grafana">
 
 <a href="https://wakatime.com"><img width="49%" src="https://wakatime.com/share/@9c1463fd-7862-4323-810f-7be6e71428e4/137f2415-eeac-4db0-a1b9-08842a61b601.png" /></a>
 <a href="https://wakatime.com"><img width="49%" src="https://wakatime.com/share/@9c1463fd-7862-4323-810f-7be6e71428e4/656d2233-f8e0-4581-aa66-da0b331ab102.png" /></a>
+
+> Code Activity updates hourly, programming langs updates daily.
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -30,4 +35,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LyrLark&margin-w=8&margin-h=8&column=7&row=1&no-frame=true&theme=light" />
 </picture>
 -->
-<figure><embed src="https://wakatime.com/share/@9c1463fd-7862-4323-810f-7be6e71428e4/da7c8d83-aab6-4dc2-ba6e-cbf8d271602b.svg"></embed></figure>
