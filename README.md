@@ -7,11 +7,11 @@
 
 <img src="https://skillicons.dev/icons?i=spring,ros,flask,django,cpp,java,rust,dart,cs,python,flutter,vue,sass,windicss,ts,d3,threejs,nextjs,nodejs,nuxtjs,electron,elasticsearch,mysql,postgres,redis,nginx,kafka,fediverse,debian,kali">
 
-### Tools I use
-
 ### Code stats
 
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,webstorm,clion,webpack,vite,rollup,git,githubactions,aws,gcp,vercel,netlify,cmake,jenkins,pnpm,gitlab,bitbucket,latex,anaconda,au,pr,ps,ai,ae,blender,docker,kubernetes,grafana">
+
+### Tools I use
 
 <a href="https://wakatime.com"><img width="49%" src="https://wakatime.com/share/@9c1463fd-7862-4323-810f-7be6e71428e4/137f2415-eeac-4db0-a1b9-08842a61b601.png" /></a>
 <a href="https://wakatime.com"><img width="49%" src="https://wakatime.com/share/@9c1463fd-7862-4323-810f-7be6e71428e4/656d2233-f8e0-4581-aa66-da0b331ab102.png" /></a>
