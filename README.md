@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I%20am%20rand777&section=header&textBg=false&fontAlignY=34&desc=Share%20ideas,%20make%20web%20apps,%20ROS2%20enthusiast.">
 
-[🌐 Website](https://www.rand777.space) · [💡 Ideas](https://rand777.pguide.studio) · [📇 Contact](mailto:losmosga@foxmail.com) · [🔨 Projects](https://blog.rand777.space/more/projects/) · [📕 Reads](https://blog.rand777.space/read/index/) · [~~👀 Visualize~~](https://blog.rand777.space/visualize/)
+[🌐 Website](https://www.rand777.space) · [💡 Ideas](https://rand777.pguide.dev) · [📇 Contact](mailto:losmosga@foxmail.com) · [🔨 Projects](https://blog.rand777.space/more/projects/) · [📕 Reads](https://blog.rand777.space/read/index/) · [~~👀 Visualize~~](https://blog.rand777.space/visualize/) [~~😚 publications~~](https://pub.rand777.space)
 
 
 
